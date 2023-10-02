@@ -1,4 +1,5 @@
-﻿using System;
+/*Write a program that will take two matrices(3x3) as input. Now show an output that will display a matrix that contains the addition value of the elements of the two matrices*/
+using System;
 
 namespace lab1task3
 {
