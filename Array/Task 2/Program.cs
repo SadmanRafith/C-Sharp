@@ -1,4 +1,5 @@
-﻿using System;
+/*Write a program that will take two arrays as input. Now, from those two arrays, create another new array which will only contain the prime number elements of the two arrays*/
+using System;
 namespace lab2task2
 {
     class Program
