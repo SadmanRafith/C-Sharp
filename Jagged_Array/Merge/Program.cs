@@ -1,4 +1,7 @@
-﻿using System;
+/*Write a C# program that merges two jagged arrays of integers into a single jagged array. 
+The merged array should contain all elements from both arrays.*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
