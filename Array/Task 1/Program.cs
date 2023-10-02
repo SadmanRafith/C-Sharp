@@ -1,4 +1,5 @@
-﻿using System;
+/*Write a program that will take an array as input and display the largest and the smallest number of the array*/
+using System;
 
 namespace Task_1
 {
