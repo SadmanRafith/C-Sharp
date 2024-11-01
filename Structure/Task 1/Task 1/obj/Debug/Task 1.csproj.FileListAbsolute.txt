@@ -1,0 +1,7 @@
+E:\CSE\SIXTH SEMESTER\C#\LAB\Structure\Task 1\Task 1\bin\Debug\Task 1.exe.config
+E:\CSE\SIXTH SEMESTER\C#\LAB\Structure\Task 1\Task 1\bin\Debug\Task 1.exe
+E:\CSE\SIXTH SEMESTER\C#\LAB\Structure\Task 1\Task 1\bin\Debug\Task 1.pdb
+E:\CSE\SIXTH SEMESTER\C#\LAB\Structure\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+E:\CSE\SIXTH SEMESTER\C#\LAB\Structure\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+E:\CSE\SIXTH SEMESTER\C#\LAB\Structure\Task 1\Task 1\obj\Debug\Task 1.exe
+E:\CSE\SIXTH SEMESTER\C#\LAB\Structure\Task 1\Task 1\obj\Debug\Task 1.pdb
